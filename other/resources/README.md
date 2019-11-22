@@ -22,6 +22,7 @@
 - ["Chart about the world through the eyes of the US"](https://pudding.cool/2018/12/countries/)
 - [reddit.com/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Mona Chalabi](https://www.instagram.com/monachalabi/)
+- [Wait but why](https://waitbutwhy.com/)
 
 ### Infos
 

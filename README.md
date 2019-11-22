@@ -7,6 +7,7 @@ Welcome! This page will be filled with material and links throughout the Semeste
 - Credits: 4
 - Room: 824
 - Office Hours: Tuesdays, 9am-12pm ([sign up](https://calendar.google.com/calendar/selfsched?sstoken=UUE0X1AyMVlCNnpyfGRlZmF1bHR8ZTBmYjk2MTcyMjZkZmUwMzhjYTllN2IxMzlkMmQ4MTU))
+- [Official Syllabus](https://drive.google.com/file/d/1Y8bui0UOrZpxiiQvpNMaZbSmwLVcnMw9/view?usp=sharing) (accessible with NYU email address)
 
 ##### Other:
 
@@ -124,7 +125,7 @@ Due Monday (2019/09/09):
 - [*\"Raw Data" is an Oxymoron* (Capter 1: Data before the Fact)](https://mitpress.mit.edu/books/raw-data-oxymoron), Rosenberg D\*
 - [*Data infrastructure literacy*](https://journals.sagepub.com/doi/10.1177/2053951718786316), Gray J, Gerlitz C, Bounegru L (2018)
 - [*Humanities Approaches to Graphical Display*](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html), J Drucker (2011)
-
+- [*Anatomy of an AI System*](https://anatomyof.ai/), Crawford K, Joler V (2018)
 
 \*online version accessible through NYU library
 
@@ -174,7 +175,7 @@ Announcement: Data Zine
 
 Introduce Group Research Assignments. The teams are
 - [X] Eszter & Robert
-- [ ] Yiqi, Phyllis & Cyndi
+- [X] Yiqi, Phyllis & Cyndi
 - [X] Jerry, Kevin & Jinzhong
 - [X] Kennedy, Sarah & Thomas (added here)
 - [X] Aleksandra & Jannie (Thomas missed this)
@@ -763,6 +764,9 @@ Due Wednesday (2019/11/27):
 
 ## WEEK 12
 ## WEEK 13
+
+<!-- assign self assessment -->
+
 ## WEEK 14
 
 ------------

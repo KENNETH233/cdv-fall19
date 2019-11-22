@@ -10,6 +10,7 @@ We will talk through an example for transitions that are triggered by scrolling.
 - You may work with data that comes with it* (although I highly recommend using your own). It comes from [here](https://www.publishersweekly.com/pw/translation/search/index.html). It's an archive of book that have been translated into English since 2008. It includes, among other things, Author, Author Gender and Country.
   - I will show you how I *got it*. (copy, paste, essentially)
 
+- [How to Scroll by Mike Bostock](https://bost.ocks.org/mike/scroll/)
 
 About the code:
 - Your visualization needs to be placed into the `id='visualization'` div.
