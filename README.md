@@ -38,8 +38,8 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**8**|[Concept Review](#week-8)|`Generators, Components & Layouts`|
 |**9**|[Automating inequality](#week-9)|`From Line to Map`|
 |**10**|[Data Story: Work in Progress Presentations 📚](#week-10)|`Interaction: Event listeners in D3`|
-|**11**|[Surveillance Capitalism](#week-11)||
-|**12**|Concept Review||
+|**11**|[Surveillance Capitalism](#week-11)|`Scrolling Interactions`|
+|**12**|[Concept Review]((#week-11))||
 |**13**|Activism, Leaks and Whistleblowers||
 |**14**|Data Story Project Presentations 🥂||
 
@@ -764,25 +764,25 @@ Due Wednesday (2019/11/27):
 
 ## WEEK 12
 
-![week8.jpg](other/assets/week8.jpg)
+![week12.jpg](other/assets/week12.jpg)
 
 ### Monday Class
 
 One-on-one reviews of the concepts for the next project.
 
-- [X] Yiqi
-- [X] Sarah
-- [X] Eszter
-- [X] Jinzhong
-- [X] Cyndi
-- [X] Aleksandra
-- [X] Jerry
-- [X] Eric
-- [X] Jannie
-- [X] Thomas
-- [X] Kennedy
-- [X] Phyllis
-- [X] Robert
+- [ ] Thomas
+- [ ] Kennedy
+- [ ] Aleksandra
+- [ ] Robert
+- [ ] Phyllis
+- [ ] Yiqi
+- [ ] Sarah
+- [ ] Jannie
+- [ ] Jinzhong
+- [ ] Jerry
+- [ ] Eric
+- [ ] Eszter
+- [ ] Cyndi
 
 ## WEEK 13
 
