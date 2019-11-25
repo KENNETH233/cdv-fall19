@@ -757,12 +757,33 @@ Due Monday (2019/11/25):
 
 [The Lab](labs/lab11)
 
-#### Assignments:
+<!-- #### Assignments:
 
 Due Wednesday (2019/11/27):
-- to be announced
+- to be announced -->
 
 ## WEEK 12
+
+![week8.jpg](other/assets/week8.jpg)
+
+### Monday Class
+
+One-on-one reviews of the concepts for the next project.
+
+- [X] Yiqi
+- [X] Sarah
+- [X] Eszter
+- [X] Jinzhong
+- [X] Cyndi
+- [X] Aleksandra
+- [X] Jerry
+- [X] Eric
+- [X] Jannie
+- [X] Thomas
+- [X] Kennedy
+- [X] Phyllis
+- [X] Robert
+
 ## WEEK 13
 
 <!-- assign self assessment -->
