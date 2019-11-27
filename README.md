@@ -770,19 +770,30 @@ Due Wednesday (2019/11/27):
 
 One-on-one reviews of the concepts for the next project.
 
-- [ ] Thomas
-- [ ] Kennedy
-- [ ] Aleksandra
-- [ ] Robert
-- [ ] Phyllis
-- [ ] Yiqi
-- [ ] Sarah
-- [ ] Jannie
-- [ ] Jinzhong
-- [ ] Jerry
-- [ ] Eric
-- [ ] Eszter
-- [ ] Cyndi
+- [X] Thomas
+- [X] Kennedy
+- [X] Aleksandra
+- [X] Robert
+- [X] Phyllis
+- [X] Yiqi
+- [X] Sarah
+- [X] Jannie
+- [X] Jinzhong
+- [X] Jerry
+- [X] Eric
+- [X] Eszter
+- [ ] Cyndi (🤒)
+
+### Wednesday Lab
+
+- Work on projects
+- Mini demos of choice:
+  - force layout
+  - brush
+  - multi svg
+  - multi scale
+
+
 
 ## WEEK 13
 
