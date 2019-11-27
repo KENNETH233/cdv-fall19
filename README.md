@@ -793,7 +793,10 @@ One-on-one reviews of the concepts for the next project.
   - multi svg
   - multi scale
 
-
+#### Assignments:
+Due Wednesday (2019/12/4):
+- You final project should be nearly finished despite some last bugs and design corrections.
+  - Submit your work in progress to the class wiki.
 
 ## WEEK 13
 
