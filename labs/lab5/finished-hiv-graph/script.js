@@ -158,7 +158,7 @@ function gotData(incomingData){
       .attr("r", 5)
   ;
 
-  
+
 
   // OPTION 2 graphics
   // i don't want circles / for jerry
