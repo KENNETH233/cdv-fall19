@@ -804,7 +804,7 @@ Due Wednesday (2019/12/4):
 
 ### Monday Class
 
-Movie Screening
+Movie Screening: *Citizenfour*
 
 
 <!-- assign self assessment -->
