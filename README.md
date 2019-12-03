@@ -39,8 +39,8 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**9**|[Automating inequality](#week-9)|`From Line to Map`|
 |**10**|[Data Story: Work in Progress Presentations 📚](#week-10)|`Interaction: Event listeners in D3`|
 |**11**|[Surveillance Capitalism](#week-11)|`Scrolling Interactions`|
-|**12**|[Concept Review](#week-11)|`Optional: force layout, brush, tooltip, multiple svgs/scales`|
-|**13**|Activism, Leaks and Whistleblowers||
+|**12**|[Concept Review](#week-12)|`Optional: force layout, brush, tooltip, multiple svgs/scales`|
+|**13**|[Activism, Leaks and Whistleblowers](#week-13)|`Lab: Working on Data Story`|
 |**14**|Data Story Project Presentations 🥂||
 
 <!-- #### Content
@@ -799,6 +799,13 @@ Due Wednesday (2019/12/4):
   - Submit your work in progress to the class wiki.
 
 ## WEEK 13
+
+![week13.jpg](other/assets/week13.jpg)
+
+### Monday Class
+
+Movie Screening
+
 
 <!-- assign self assessment -->
 
