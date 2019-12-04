@@ -811,6 +811,22 @@ Movie Screening: *Citizenfour*
 
 ## WEEK 14
 
+#### Assignments:
+Due Monday (2019/12/8):
+- **Data Story is due at noon**
+  - upload the code to GitHub.
+  - link to it i the class wiki.
+  - I will download the project that day
+
+Due Wednesday (2019/12/10):
+  - **README.md file**
+    - Add a `README.md` file to your project
+      - Include Screenshots (GIFs if appropriate) documenting the visualizations
+        - I can give you screenshot advise if you want
+      - In text, describe your process, compromises you made, and self-evaluate the quality of your project in your own words:
+        - Is it successful? Why?
+        - Which parts could be improved? How? 
+
 ------------
 #### Course Overview and Learning Outcomes
 The overarching goal of this class is for students to gain the tools and the comfort to think critically about the ways data is utilized in the ever growing technological landscape we are immersed in.
