@@ -820,15 +820,21 @@ Due Monday (2019/12/8):
 - Prepare a **5-6 minute presentation** of your project
   - these will take place on Monday and Wednesday with guests critics.
   - Monday:
-    - Jinzhong
-    - Alex
-    - Robert
-    - Cyndi
-    - Jerry
-    - Eric
-    - Yiqi
+    - [ ] Jinzhong
+    - [ ] Aleksandra
+    - [ ] Robert
+    - [ ] Cyndi
+    - [ ] Jerry
+    - [ ] Eric
+    - [ ] Yiqi
   - Wednesday:
-    - the rest
+    - [ ] Thomas
+    - [ ] Kennedy
+    - [ ] Eszter
+    - [ ] Yiqi
+    - [ ] Sarah
+    - [ ] Jannie
+
 
 Due Wednesday (2019/12/10):
   - **README.md file**
