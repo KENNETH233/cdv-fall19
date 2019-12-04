@@ -817,6 +817,8 @@ Due Monday (2019/12/8):
   - upload the code to GitHub.
   - link to it i the class wiki.
   - I will download the project that day
+- Prepare a **5-6 minute presentation** of your project
+  - these will take place on Monday and Wednesday with guests critics.
 
 Due Wednesday (2019/12/10):
   - **README.md file**
@@ -825,7 +827,7 @@ Due Wednesday (2019/12/10):
         - I can give you screenshot advise if you want
       - In text, describe your process, compromises you made, and self-evaluate the quality of your project in your own words:
         - Is it successful? Why?
-        - Which parts could be improved? How? 
+        - Which parts could be improved? How?
 
 ------------
 #### Course Overview and Learning Outcomes
