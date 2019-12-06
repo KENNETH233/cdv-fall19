@@ -23,6 +23,7 @@
 - [reddit.com/r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/)
 - [Mona Chalabi](https://www.instagram.com/monachalabi/)
 - [Wait but why](https://waitbutwhy.com/)
+- [Call Me Adele.](https://medium.com/@wipaweeeeee/call-me-adele-f37162b6ffe5) by Wipawe Sirikolkarn
 
 ### Infos
 

@@ -806,10 +806,10 @@ Due Wednesday (2019/12/4):
 
 Movie Screening: *Citizenfour*
 
+###### Optional/Related readings and resources:
+- [Project X by Laura Poitras & Henrik Moltke](http://www.goodshortfilms.it/en/country/usa/project-x-di-laura-poitras-e-henrik-moltke)
 
-<!-- assign self assessment -->
-
-## WEEK 14
+### Wednesday Lab
 
 #### Assignments:
 Due Monday (2019/12/8):
@@ -831,7 +831,7 @@ Due Monday (2019/12/8):
     - [ ] Thomas
     - [ ] Kennedy
     - [ ] Eszter
-    - [ ] Yiqi
+    - [ ] Phyllis
     - [ ] Sarah
     - [ ] Jannie
 
@@ -844,6 +844,9 @@ Due Wednesday (2019/12/10):
       - In text, describe your process, compromises you made, and self-evaluate the quality of your project in your own words:
         - Is it successful? Why?
         - Which parts could be improved? How?
+
+
+## WEEK 14
 
 ------------
 #### Course Overview and Learning Outcomes
