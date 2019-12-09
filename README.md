@@ -860,7 +860,22 @@ Due Wednesday (2019/12/10):
   - [ ] Eric
   - [ ] Yiqi
 
+- Wednesday:
+  - [ ] Thomas
+  - [ ] Kennedy
+  - [ ] Eszter
+  - [ ] Phyllis
+  - [ ] Sarah
+  - [ ] Jannie
 
+- Showing our work at the IMA Show!
+
+
+<br><br><br>
+
+Goodbye, it was fun with you!
+
+<br><br><br><br><br><br><br><br><br>
 ------------
 #### Course Overview and Learning Outcomes
 The overarching goal of this class is for students to gain the tools and the comfort to think critically about the ways data is utilized in the ever growing technological landscape we are immersed in.
