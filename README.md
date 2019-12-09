@@ -41,7 +41,7 @@ This class seeks to untangle some of these issues practically and theoretically.
 |**11**|[Surveillance Capitalism](#week-11)|`Scrolling Interactions`|
 |**12**|[Concept Review](#week-12)|`Optional: force layout, brush, tooltip, multiple svgs/scales`|
 |**13**|[Activism, Leaks and Whistleblowers](#week-13)|`Lab: Working on Data Story`|
-|**14**|Data Story Project Presentations 🥂||
+|**14**|[Data Story Project Presentations 🥂](#week-14)||
 
 <!-- #### Content
 `👾 = Programming Labs`
@@ -820,20 +820,20 @@ Due Monday (2019/12/8):
 - Prepare a **5-6 minute presentation** of your project
   - these will take place on Monday and Wednesday with guests critics.
   - Monday:
-    - [ ] Jinzhong
-    - [ ] Aleksandra
-    - [ ] Robert
-    - [ ] Cyndi
-    - [ ] Jerry
-    - [ ] Eric
-    - [ ] Yiqi
+    - Jinzhong
+    - Aleksandra
+    - Robert
+    - Cyndi
+    - Jerry
+    - Eric
+    - Yiqi
   - Wednesday:
-    - [ ] Thomas
-    - [ ] Kennedy
-    - [ ] Eszter
-    - [ ] Phyllis
-    - [ ] Sarah
-    - [ ] Jannie
+    - Thomas
+    - Kennedy
+    - Eszter
+    - Phyllis
+    - Sarah
+    - Jannie
 
 
 Due Wednesday (2019/12/10):
@@ -847,6 +847,19 @@ Due Wednesday (2019/12/10):
 
 
 ## WEEK 14
+
+![week14.jpg](other/assets/week14.jpg)
+
+**5-6 minute presentation**, **4-5 minute feeback**
+- Monday:
+  - [ ] Jinzhong
+  - [ ] Aleksandra
+  - [ ] Robert
+  - [ ] Cyndi
+  - [ ] Jerry
+  - [ ] Eric
+  - [ ] Yiqi
+
 
 ------------
 #### Course Overview and Learning Outcomes
