@@ -280,6 +280,8 @@ Due Monday (2019/09/23):
 
 ###### Optional/Related readings and resources:
 
+- [Biased Algorithms Are Easier to Fix Than Biased People](https://www.nytimes.com/2019/12/06/business/algorithm-bias-fix.html#click=https://t.co/lkLEpfDwF9)
+
 ### Wednesday Lab
 
 Find the Lab in detail [here](https://github.com/leoneckert/cdv-fall19/tree/master/labs/lab3)
@@ -852,13 +854,13 @@ Due Wednesday (2019/12/10):
 
 **5-6 minute presentation**, **4-5 minute feeback**
 - Monday:
-  - [ ] Jinzhong
-  - [ ] Aleksandra
-  - [ ] Robert
-  - [ ] Cyndi
-  - [ ] Jerry
-  - [ ] Eric
-  - [ ] Yiqi
+  - [X] Jinzhong
+  - [X] Aleksandra
+  - [X] Robert
+  - [X] Cyndi
+  - [X] Jerry
+  - [X] Eric
+  - [X] Yiqi
 
 - Wednesday:
   - [ ] Thomas
