@@ -863,12 +863,12 @@ Due Wednesday (2019/12/10):
   - [X] Yiqi
 
 - Wednesday:
-  - [ ] Thomas
-  - [ ] Kennedy
-  - [ ] Eszter
-  - [ ] Phyllis
-  - [ ] Sarah
-  - [ ] Jannie
+  - [X] Thomas
+  - [X] Kennedy
+  - [X] Eszter
+  - [X] Phyllis
+  - [X] Sarah
+  - [X] Jannie
 
 - Showing our work at the IMA Show!
 

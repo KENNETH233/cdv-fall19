@@ -24,6 +24,10 @@
 - [Mona Chalabi](https://www.instagram.com/monachalabi/)
 - [Wait but why](https://waitbutwhy.com/)
 - [Call Me Adele.](https://medium.com/@wipaweeeeee/call-me-adele-f37162b6ffe5) by Wipawe Sirikolkarn
+- [nytimes: location-tracking-cell-phone](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html), [tweets](https://twitter.com/stuartathompson/status/1207653794462535680)
+- [D3 Example Gallery by Mike Bostock](https://observablehq.com/@d3/gallery)
+- [Corona Virus Data Viz (mostly static)](https://multimedia.scmp.com/infographics/news/china/article/3047038/wuhan-virus/index.html?)
+- [Making data mean more through storytelling | Ben Wellington](https://www.youtube.com/watch?v=6xsvGYIxJok)
 
 ### Infos
 
